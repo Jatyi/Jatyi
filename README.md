@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jatyi
-- 👀 I’m interested in hang out
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on sdudy
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 😄 Pronouns:Chinese
-- ⚡ Fun fact:a green hand now
+- 😄 Pronouns:...
+- ⚡ Fun fact:...
 
 <!---
 Jatyi/Jatyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
